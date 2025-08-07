@@ -3,7 +3,7 @@
 ![Tela inicial](./imagens/imagem1.png)
 ![Aplicação funcionando](./imagens/capa.gif)
 
-## O que é este projeto
+## O que é  projeto
 Este projeto é uma página feita com HTML, CSS e Javascript que contém uma série de botões coloridos para que a pessoa que está utilizando a aplicação possa alterar a cor de fundo da página.
 
 ## Como rodar este projeto
