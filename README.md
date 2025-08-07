@@ -1,8 +1,8 @@
 # Altera Fundo
-
-![Tela inicial](./imagens/imagem1.png)
-![Aplicação funcionando](./imagens/capa.gif)
-
+<p align="center">
+<img src="./imagens/imagem1.png" alt="Tela inicial" width="400px"></img>
+<img src="./imagens/capa.gif" alt="Aplicação funcionando" width="400px"></img>
+</p>
 ## O que é este projeto
 Este projeto é uma página feita com HTML, CSS e Javascript que contém uma série de botões coloridos para que a pessoa que está utilizando a aplicação possa alterar a cor de fundo da página.
 
