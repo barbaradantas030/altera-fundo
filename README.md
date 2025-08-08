@@ -1,17 +1,20 @@
 # Altera Fundo
+
+![Tamanho do repositório](https://img.shields.io/github/repo-size/barbaradantas030/altera-fundo?style=plastic)
+![Total de arquivos](https://img.shields.io/github/directory-file-count/barbaradantas030/altera-fundo?type=file&style=plastic)
+![Total issues](https://img.shields.io/gitea/issues/all/barbaradantas030/altera-fundo?style=plastic)
+![Total Pull Requests](https://img.shields.io/gitea/pull-requests/all/barbaradantas030/altera-fundo?style=plastic)
+![Licença](https://img.shields.io/github/license/barbaradantas030/altera-fundo?style=plastic)
+
+
+
 <p align="center">
 <img src="./imagens/imagem1.png" alt="Tela inicial" width="400px"></img>
 <img src="./imagens/capa.gif" alt="Aplicação funcionando" width="400px"></img>
 </p>
 
-<<<<<<< HEAD
-![Tela inicial](./imagens/imagem1.png)
-![Aplicação funcionando](./imagens/capa.gif)
 
-## O que é  projeto
-=======
 ## 🤔 O que é este projeto 
->>>>>>> f281de9e0d55fa9f44c87681cef1bc55d08d3f19
 Este projeto é uma página feita com HTML, CSS e Javascript que contém uma série de botões coloridos para que a pessoa que está utilizando a aplicação possa alterar a cor de fundo da página.
 
 ## 💻 Como rodar este projeto
