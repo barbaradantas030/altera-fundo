@@ -64,4 +64,8 @@ Não há dependências no projeto.
 ## 🆘 Precisa de ajuda?
 Você pode contatar a Letícia (mantenedora do projeto) em email@legal.com ou entre em contato pelas redes sociais:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://github.com/barbaradantas030/altera-fundo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-dantas-56931915/)
+
+
+
+
