@@ -62,10 +62,12 @@ Não há dependências no projeto.
 - [Letícia3](https://github.com/LelePG) - contribuinte
 
 ## 🆘 Precisa de ajuda?
-Você pode contatar a Letícia (mantenedora do projeto) em email@legal.com ou entre em contato pelas redes sociais:
+Você pode contatar a Bárbara (mantenedora do projeto) em barbara.dantas030@gmail.com ou entre em contato pelas redes sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-dantas-56931915/)
 
+-------------
 
+<p align="center">Feito com 💟 e ☕ por Bárbara.</p>
 
 
